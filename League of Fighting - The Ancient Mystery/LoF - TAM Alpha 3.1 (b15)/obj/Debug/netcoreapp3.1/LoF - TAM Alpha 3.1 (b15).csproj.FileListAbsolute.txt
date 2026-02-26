@@ -1,0 +1,28 @@
+D:\My games\C#\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\bin\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).exe
+D:\My games\C#\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\bin\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).deps.json
+D:\My games\C#\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\bin\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).runtimeconfig.json
+D:\My games\C#\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\bin\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).runtimeconfig.dev.json
+D:\My games\C#\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\bin\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).dll
+D:\My games\C#\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\bin\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).pdb
+D:\My games\C#\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\obj\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).csproj.AssemblyReference.cache
+D:\My games\C#\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\obj\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).GeneratedMSBuildEditorConfig.editorconfig
+D:\My games\C#\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\obj\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).AssemblyInfoInputs.cache
+D:\My games\C#\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\obj\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).AssemblyInfo.cs
+D:\My games\C#\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\obj\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).csproj.CoreCompileInputs.cache
+D:\My games\C#\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\obj\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).dll
+D:\My games\C#\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\obj\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).pdb
+D:\My games\C#\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\obj\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).genruntimeconfig.cache
+D:\Portfolio\My Own Games\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\bin\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).exe
+D:\Portfolio\My Own Games\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\bin\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).deps.json
+D:\Portfolio\My Own Games\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\bin\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).runtimeconfig.json
+D:\Portfolio\My Own Games\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\bin\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).runtimeconfig.dev.json
+D:\Portfolio\My Own Games\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\bin\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).dll
+D:\Portfolio\My Own Games\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\bin\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).pdb
+D:\Portfolio\My Own Games\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\obj\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).csproj.AssemblyReference.cache
+D:\Portfolio\My Own Games\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\obj\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\My Own Games\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\obj\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).AssemblyInfoInputs.cache
+D:\Portfolio\My Own Games\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\obj\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).AssemblyInfo.cs
+D:\Portfolio\My Own Games\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\obj\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).csproj.CoreCompileInputs.cache
+D:\Portfolio\My Own Games\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\obj\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).dll
+D:\Portfolio\My Own Games\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\obj\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).pdb
+D:\Portfolio\My Own Games\LoF - TAM Alpha 3.1 (b15) (C#)\LoF - TAM Alpha 3.1 (b15)\obj\Debug\netcoreapp3.1\LoF - TAM Alpha 3.1 (b15).genruntimeconfig.cache
