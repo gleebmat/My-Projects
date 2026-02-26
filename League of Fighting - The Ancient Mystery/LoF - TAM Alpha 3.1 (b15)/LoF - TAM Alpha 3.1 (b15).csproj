@@ -1,9 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>LoF___TAM_Alpha_3._1__b15_</RootNamespace>
-  </PropertyGroup>
-
-</Project>
