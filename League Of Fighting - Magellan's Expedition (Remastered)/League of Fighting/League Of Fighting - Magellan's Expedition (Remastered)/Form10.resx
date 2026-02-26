@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label1.Text" xml:space="preserve">
+    <value>YARR! No, dude, there is no campaign at all (sorry, but I decided to add it too late)
+But, fortunately, pirates keep their words.
+That is why, I created a small story about Magellan and his expedition, which wasn't
+usual as you know about it!
+
+Some tracks I haven't added to game:
+1. Big Ship Little Ship;
+2. Alestorm;
+3. P.A.R.T.Y.;
+4. Wooden Leg Part II (The Woodening);
+And some else.....
+However, it is only remaster of my first game....
+And, don't forget, I decided to keep my the most interesting ideas to realised on Unity.
+I am sure, it will be great!
+So, for the fans of the Fire And Sword - The Quest - ...
+P.S. I think, that this story is quite interesting and well thought out!</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Let me tell you the story of Magellan,
+the glorious pirate, not the great navigator.
+I will tell everything
+that I know myself - everything that his team and I - the cabin boy on the ship Victoria - knew.
+But before we start...
+You should know that this story began much earlier than 1519.
+Fernand was born in Scotland and until the age of 16 he sailed on the ship of his father,
+a famous pirate in those waters.
+Everything changed when he was only 17. Father was caught and hanged.
+All this happened in front of his son.
+Despite his young years, the guy firmly vowed to take revenge.
+He was far from stupid not to understand that in such case,
+haste is a cr*ppy business.</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>First of all, he decided to settle in the country where his father was hanged - in Spain.
+Fernand spent the first years of his Spanish life in Madrid.
+It was not a luxurious life, but rather the horror of being among the same miserable as his father.
+But Magellan was a brave guy.
+He was NEVER afraid of the consequences.
+Only forward - he chose such a slogan.
+But he did not even imagine what a good chance
+he would have in the near future!</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>In 1518, the Ambassador of the Grand Duchy of Lithuania visited the Spanish King Charles the First.
+It turned out that the ambassador - his name was Miguel - found out very bad reasons for Castile
+to unite with Aragon.
+If you're an asshole, I'll explain. In 1479 the two states united.
+Until the moment of negotiations,
+the wedding of the heirs of 2 countries was considered the official and absolutely genuine reason for the union.
+But Miguel learned something more interesting: Castile pursued other goals.
+The country planned to destroy Aragon by marriage.
+That is, Castile wanted to gradually destroy the power of its ally.
+Since Charles was a supporter and practically the head of Aragon,
+having learned about such a betrayal,
+he first of all proceeded to entangle his ally-d*mbass.
+Charles generously rewarded Miguel
+and immediately ordered the construction of the most powerful fleet in the world!
+Yes, yes, the fleet.
+Charles the First decided to launch an offensive from the ocean.</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>For some 10 years, the whole flotilla was created.
+At this time, the former Castile
+(and at that time already part of the Spanish rich) had been trying to stealthily seize power.
+Slowly, slowly, but seize.
+In 1494, the collection of sailors began.
+And as you probably already guessed, both I and young Magellan got there.
+Let's not talk about me now. I was just a cabin boy on the new ship Victoria.
+Magellan all these years stubbornly tried to get out into the people. And he succeeded in becoming a sailor.
+On the ship Victoria. The fact is that King Charles the First died.
+And with him, the ideas of seizing power also went to the grave.
+After all, they all considered Charles the First to be their support, which did not guess anything.
+But as you already know, this was far from the case.</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>The year 1519 came unnoticed. September.
+By that time, we were already friends with Fernand.
+I remember that day very well. September 18th.
+We are told that we are obliged to attack the nearest borders of the former Castile in 3 days.
+All these years we remained sailors, but I still did not know that the war was going on.
+Later it turned out that we were sailing even earlier - on September 20th.
+This day was bloody. The devil himself knows how hard it is for me to talk about this.
+Yes, me and my best friend and 47 other thugs have captured Victoria. Yes, we killed them mercilessly.
+And all for the sake of one man, whose father was killed many years ago....
+I don’t know how, but we stormed this ship the night before we sailed.
+Probably Magellan did not forget his father's lessons.
+The Aragonese raised the alarm too late - we were already very far away and shot them with cannons.
+And it was at that moment - I remember it very well - that I suddenly realized
+where my life was heading and what would happen to me when I arrived in most countries of the world.
+With these thoughts, we began to discuss a further plan of action.</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>But the rest of the story is known to many. We decided to become pirates. Just like Magellan!
+It sounded proud! And we swam as far as we could.
+There, in America, we found new islands, treasures, natives, glory
+and filled the void of our hearts with these things after the Bloody September, 20!
+And then........the further we plunged into our passions, the clearer the curse became!
+Yes, curse!
+Curse for sins!
+By the end of 1521, we no longer even felt the breath of the wind,
+the touch,
+the sweetness of food
+and the wealth of those heavenly and hellish lands!</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Magellan died..
+In terrible agony...
+At night we heard his cry!
+Piercing!
+He stood on the ocean shore with his arms outstretched.
+Running out, I saw the KRAKEN for a moment.
+It wasn't big, but it wasn't small either.
+He abruptly emerged from the water and jumped right to Fernand!
+F*ck him! We thought. And sailed away from the islands without him like cowardly rats.
+We, too, could suffer such a fate, so we surrendered to the Spaniards.
+It was embarrassing, scary and painful.
+But we could not live without them, but the feeling of guilt was enormous......
+Yes, we did not take Magellan back.
+We were afraid, we were afraid of the curse very much.
+We thought that Fernand would get us even in Spain, so we couldn't stand it psychologically.
+We gave up.</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>After listening to us, the Madrid authorities immediately decided to hang us.
+But after they heard about the path along which we sailed,
+they decided that we had found another continent with huge gold reserves.
+In a short time, expeditions were formed to those islands whose names I don’t remember,
+but I always remembered those places.....
+We were pardoned and instead of being hanged ........ we were imprisoned for our lifes!
+And we became prisoners. Me and 17 other people whose souls remained on those unknown islands.
+All of our history has been rewritten. Magellan turned out to be not a pirate,
+but a great navigator who made the first trip around the world for his country
+and also found huge reserves of gold on other lands.
+That is my story.
+The story of a pirate who was afraid of curses and death.
+The Story of a repentant pirate.
+The story of Juan Sebastian Elcano!</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Understand that pirates are not only brave and desperate villains.
+Unfortunately, some pirates are cowardly and dishonest.
+Therefore, always remember the cost of your actions
+and become a pirate only if you have honor, a little madness, courage and other character traits of the winners!
+A pirate sounds proud, so don't let that title down!</value>
+  </data>
+</root>
