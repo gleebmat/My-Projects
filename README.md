@@ -1,6 +1,9 @@
-Welcome! This repository is a collection of my major projects developed during an intensive 3-year programming curriculum. These projects represent my evolutioning steps into the IT-world. 
-Most projects were originally developed in Russian, as they were part of my local education and competitions. These games were my first significant milestones in C#, .NET, and Unity development.
-Assets and other large files were removed from the projects in order to reduce repository size. You can find photos and screenshots attached in every folder.
+Welcome!
+This repository is a collection of my key projects developed during an intensive 3-year programming curriculum. These works represent my foundational steps into the field of software engineering.
+
+Note: Most projects were originally developed in Russian, as they were part of my local education and regional competitions. These games and applications served as my first significant milestones in C#, .NET, and Unity development.
+
+To keep the repository size manageable, I have removed large asset files. However, you can find detailed screenshots and project photos in each folder to see the results in action.
 
 1. Crazy Apple Run - Android game on Unity (2023).
 2. The Night The Monsters Died - First steps on Unity3D, created as a finishing project for the exam (2023)
